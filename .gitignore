@@ -1,13 +1,7 @@
-# This repository publishes only README.md and plates.csv.
-# Everything below stays on my computer (my Obsidian notes and the book).
-
 # The source book is copyrighted.
 *.pdf
 
-# Obsidian vault notes and settings
-Concepts/
-Plates/
-Index.md
+
 Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md
 .obsidian/
 .trash/
@@ -21,7 +15,3 @@ desktop.ini
 *.tmp
 *.bak
 *~
-
-# Tidy copy of the notes (correct filenames only)
-_clean-copy/
-_newer-wording/
