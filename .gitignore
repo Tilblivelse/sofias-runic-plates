@@ -1,17 +1,13 @@
-# The source book is copyrighted.
 *.pdf
-
 
 Sofia Pereswetoff-Morath - Viking-Age Runic Plates.md
 .obsidian/
 .trash/
 
-# Operating-system clutter
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Temporary files
 *.tmp
 *.bak
 *~
